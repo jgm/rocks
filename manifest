@@ -1,0 +1,9 @@
+modules = {}
+
+commands = {}
+
+repository = {lunamark={['0.1-1']={{arch='rockspec'}
+}
+}
+}
+
